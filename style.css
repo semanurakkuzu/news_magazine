@@ -1,0 +1,55 @@
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.border-radius {
+    border-radius: 0px 30px 30px 0px;
+    border: 1px solid gray;
+}
+
+.border-left-red {
+    
+        border-left: 4px solid rgb(207, 53, 53);
+   
+}
+.border-left-blue {
+    
+    border-left: 4px solid rgb(77, 167, 226);
+
+}
+.border-left-orange {
+    
+    border-left: 4px solid rgb(243, 169, 58);
+
+}
+
+
+a:hover {
+    color: rgb(25, 180, 228)!important;
+}
+
+.font-small {
+    font-size: 14px;
+}
+.font-xsmall {
+    font-size: 12px;
+}
+
+.padding {
+    padding:0px 0px 5px 30px!important;
+}
+
+.square {
+    width: 35px;
+    height: 35px;
+}
+
+.bg-image {
+    background-image: url(https://picsum.photos/id/237/200/300);
+    
+}
+
