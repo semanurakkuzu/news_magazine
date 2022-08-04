@@ -74,7 +74,7 @@ a.tag:hover {
     border: 1px solid rgb(25, 180, 228) !important;
 }
 
-img.roate-animation:hover {
+img.rotate-animation:hover {
     transform: scale(1.2) rotate(5deg);
     transition: all .5s ease-out;
 }
@@ -82,4 +82,9 @@ img.roate-animation:hover {
 a {
     display: block;
     overflow: hidden;
+}
+
+.width-animation:hover {
+    transform: scale(1.04);
+    transition: all 0.3s;
 }
