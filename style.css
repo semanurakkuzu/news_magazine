@@ -30,6 +30,7 @@
 
 a:hover {
     color: rgb(25, 180, 228)!important;
+    
 }
 
 .font-small {
@@ -44,12 +45,28 @@ a:hover {
 }
 
 .square {
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
 }
 
 .bg-image {
     background-image: url(https://picsum.photos/id/237/200/300);
     
+}
+
+.btn-blue{
+background-color: rgb(25, 180, 228);
+}
+.btn-blue:hover{
+    background-color: white!important;
+}
+
+
+.btn-blue:hover svg{
+   color:  rgb(25, 180, 228)!important;
+}
+
+a.tag:hover{
+    border: 1px solid  rgb(25, 180, 228)!important;
 }
 
